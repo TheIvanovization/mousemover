@@ -38,7 +38,7 @@ python mousemover.py
 3. Open `cmd` terminal to your project directory, eg. `c:\projects\mousemover`
 4. Create virtual environment with the command:
    ```
-   pip -m venv venv
+   python -m venv venv
    ```
 5. Activate virtual environment with the command:
    ```
